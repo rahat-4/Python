@@ -1,2 +1,2 @@
 # Python
-200 problems solutions from udemy course
+10 problems solutions from udemy course
